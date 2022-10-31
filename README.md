@@ -36,7 +36,30 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/mike69slp/portafolio_w4_pacman/blob/main/pacman.js)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+A simple html code with javascript to move a PacMan image across the screen
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Just download the files and copy them to a local directory. Then open the file 'index.html' in a browser window. Have fun!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+You can practice DOM manipulation with this simple javascrip file.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* []()
+* []()
+* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
