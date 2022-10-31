@@ -58,7 +58,7 @@ You can practice DOM manipulation with this simple javascrip file.
 ## Acknowledgments
 
 <ul>
-  <li>Thanks to "Othneil Drew" for a great <a href="https://github.com/othneildrew/Best-README-Template" target="_blank">README</a> template</li>
+  <li>Thanks to "Othneil Drew" for a great <a href="https://github.com/othneildrew/Best-README-Template">README</a> template</li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
