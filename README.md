@@ -43,7 +43,7 @@ A simple html code with javascript to move a PacMan image across the screen
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Just download the files and copy them to a local directory. Then open the file 'index.html' in a browser window. Have fun!
+Just download the files and copy them to a local directory. Then open the file "index.html" in a browser window. Have fun!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,9 +57,9 @@ You can practice DOM manipulation with this simple javascrip file.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+<ul>
+  <li>Thanks to "Othneil Drew" for a great <a href="https://github.com/othneildrew/Best-README-Template">README</a> template</li>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
