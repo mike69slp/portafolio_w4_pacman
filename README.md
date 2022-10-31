@@ -45,7 +45,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 [stars-shield]: https://img.shields.io/github/stars/mike69slp/portafolio_w4_pacman.svg?style=for-the-badge
 [stars-url]: https://github.com/mike69slp/portafolio_w4_pacman/stargazers
 [license-shield]: https://img.shields.io/github/license/mike69slp/portafolio_w4_pacman.svg?style=for-the-badge
-[license-url]: https://github.com/mike69slp/portafolio_w4_pacman/blob/master/LICENSE.txt
+[license-url]: https://github.com/mike69slp/portafolio_w4_pacman/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/miguel-esparza-3403306a
 [product-screenshot]: images/pacman.png
