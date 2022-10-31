@@ -16,7 +16,7 @@
     <br />
     <a href="https://github.com/mike69slp/portafolio_w4_pacman"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/mike69slp/portafolio_w4_pacman/index.html"><strong>View Demo</strong></a>
+    <a href="https://github.com/mike69slp/portafolio_w4_pacman/blob/main/pacman.js"><strong>View Code</strong></a>
   </p>
 </div>
 
